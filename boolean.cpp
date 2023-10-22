@@ -9,6 +9,5 @@ cout << isFishTasty;
 return 0;
 }
 
- // Outputs 0 (false)
 
 
